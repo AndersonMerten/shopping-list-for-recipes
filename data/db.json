@@ -1,0 +1,36 @@
+{
+  "Receitas": [
+    {
+      "id": "1",
+      "imagem": "/images/macarrao.jpg",
+      "titulo": "Macarrão com carne moída",
+      "ingredientes": "250g de macarrão (espaguete, penne ou o que preferir)\n 300g de carne moída (beef ou frango)\n 1 cebola média picada\n 2 dentes de alho picados\n 1 lata de molho de tomate (ou 2 tomates maduros picados)\n Sal e pimenta a gosto\n Azeite ou óleo\n Queijo ralado (opcional)\n Ervas a gosto (como manjericão ou orégano)",
+      "dificuldade": "bem fácil",
+      "modoPreparo": "Cozinhe o macarrão: Em uma panela grande, ferva água com sal. Cozinhe o macarrão conforme as instruções da embalagem. Quando estiver al dente, escorra e reserve.\n Refogue a carne: Em uma frigideira grande, aqueça um pouco de azeite ou óleo em fogo médio. Adicione a cebola e o alho, refogando até que fiquem dourados.\nAdicione a carne: Junte a carne moída à frigideira. Cozinhe até que esteja bem dourada, mexendo para não empelotar. Tempere com sal e pimenta.\nMisture o molho: Adicione o molho de tomate (ou os tomates picados) à carne. Cozinhe por alguns minutos, até o molho aquecer e os sabores se misturarem.\n Combine tudo: Adicione o macarrão cozido à frigideira com o molho e a carne. Misture bem para que o macarrão fique envolvido no molho.\nFinalize: Se desejar, adicione queijo ralado e ervas a gosto antes de servir.\nSirva: Sirva quente e aproveite!"
+    },
+    {
+      "id": "2",
+      "imagem": "/images/frango.jpg",
+      "titulo": "Frango a passarinho",
+      "ingredientes": "1 kg de frango (coxa e sobrecoxa cortadas em pedaços pequenos)\n 4 dentes de alho picados\n Suco de 1 limão\n Sal e pimenta a gosto\n 1 colher de sopa de páprica (opcional)\n 1/2 xícara de farinha de trigo\n 1/2 xícara de farinha de milho (ou fubá)\n Óleo para fritar\n Salsinha picada (para decorar)",
+      "dificuldade": "bem médio",
+      "modoPreparo": "Tempero: Em uma tigela grande, misture o frango com o alho picado, suco de limão, sal, pimenta e a páprica (se usar). Deixe marinar por pelo menos 30 minutos para absorver os sabores.\nEmpanar: Em um prato, misture a farinha de trigo e a farinha de milho. Passe os pedaços de frango nessa mistura, garantindo que fiquem bem empanados.\nFritar: Aqueça o óleo em uma frigideira grande em fogo médio-alto. Frite os pedaços de frango aos poucos, evitando sobrecarregar a panela. Frite até que fiquem dourados e crocantes, cerca de 5-7 minutos de cada lado. Retire e coloque sobre papel toalha para absorver o excesso de óleo.\nServir: Transfira o frango para um prato e decore com salsinha picada. Sirva quente, acompanhado de limão, arroz ou uma salada."
+    },
+    {
+      "id": "3",
+      "imagem": "/images/churrasco.jpg",
+      "titulo": "Churrasco a moda da casa",
+      "ingredientes": "Carnes variadas (picanha, fraldinha, costela, linguiça, etc.)\nSal grosso\nPão de alho (opcional)\nAcompanhamentos (arroz, farofa, vinagrete, salada)",
+      "dificuldade": "bem dificil",
+      "modoPreparo": "Tempere as carnes: Tempere as carnes com sal grosso a gosto. Para carnes mais saborosas, você pode deixar marinar por algumas horas.\nPrepare a churrasqueira: Acenda a churrasqueira com carvão ou lenha. Deixe que o carvão queime até ficar com uma camada de cinzas, indicando que está na temperatura ideal.\nGrelhe as carnes: Coloque as carnes na grelha e cozinhe em fogo médio a alto. Vire-as periodicamente para garantir que fiquem bem cozidas por igual. O tempo de cocção varia de acordo com o tipo e espessura da carne.\nAdicione os acompanhamentos: Se estiver usando pão de alho, coloque na grelha nos últimos minutos. Prepare os acompanhamentos enquanto as carnes estão grelhando.\nSirva: Quando as carnes estiverem no ponto desejado, retire da grelha e deixe descansar por alguns minutos antes de cortar. Sirva com os acompanhamentos."
+    },
+    {
+      "id": "24f2",
+      "titulo": "132456465",
+      "ingredientes": "51615\n6941652",
+      "modoPreparo": "41965\n4165132",
+      "dificuldade": "Médio",
+      "imagem": "4194965"
+    }
+  ]
+}

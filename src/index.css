@@ -53,19 +53,31 @@
   color: #000000;
   margin-bottom: 8px;
 }
-.post-preview p{
+.post-preview a{
   text-decoration: none;
 }
 
-.post-details h2 {
+.Receita h2 {
   font-size: 20px;
   color: #f1356d;
   margin-bottom: 10px;
 }
-.post-details div {
-  margin: 20px 0;
+
+.receita-img img{
+  max-width: 60%;
+  min-width: 60%;
 }
-.post-details button {
+
+.receita-texto {
+  margin: 20px 0;
+  text-align: justify;
+}
+
+.receita-texto li{
+  margin: 10px auto;
+}
+
+.Receita button {
   background: #f1356d;
   color: #fff;
   border: 0;
@@ -75,21 +87,21 @@
 }
 
 /* create new post form */
-.create {
+.novaReceita {
   max-width: 400px;
   margin: 0 auto;
   text-align: center;
 }
-.create label {
+.novaReceita label {
   text-align: left;
   display: block;
 }
-.create h2 {
+.novaReceita h2 {
   font-size: 20px;
   color: #f1356d;
   margin-bottom: 30px;
 }
-.create input, .create textarea, .create select {
+.novaReceita input, .novaReceita textarea, .novaReceita select {
   width: 100%;
   padding: 6px 10px;
   margin: 10px 0;
@@ -97,7 +109,7 @@
   box-sizing: border-box;
   display: block;
 }
-.create button {
+.novaReceita button {
   background: #f1356d;
   color: #fff;
   border: 0;
