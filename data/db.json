@@ -1,36 +1,100 @@
 {
   "Receitas": [
     {
-      "id": "1",
+      "id": "175373",
       "imagem": "/images/macarrao.jpg",
       "titulo": "Macarrão com carne moída",
       "ingredientes": "250g de macarrão (espaguete, penne ou o que preferir)\n 300g de carne moída (beef ou frango)\n 1 cebola média picada\n 2 dentes de alho picados\n 1 lata de molho de tomate (ou 2 tomates maduros picados)\n Sal e pimenta a gosto\n Azeite ou óleo\n Queijo ralado (opcional)\n Ervas a gosto (como manjericão ou orégano)",
-      "dificuldade": "bem fácil",
+      "resumo": "bem fácil",
       "modoPreparo": "Cozinhe o macarrão: Em uma panela grande, ferva água com sal. Cozinhe o macarrão conforme as instruções da embalagem. Quando estiver al dente, escorra e reserve.\n Refogue a carne: Em uma frigideira grande, aqueça um pouco de azeite ou óleo em fogo médio. Adicione a cebola e o alho, refogando até que fiquem dourados.\nAdicione a carne: Junte a carne moída à frigideira. Cozinhe até que esteja bem dourada, mexendo para não empelotar. Tempere com sal e pimenta.\nMisture o molho: Adicione o molho de tomate (ou os tomates picados) à carne. Cozinhe por alguns minutos, até o molho aquecer e os sabores se misturarem.\n Combine tudo: Adicione o macarrão cozido à frigideira com o molho e a carne. Misture bem para que o macarrão fique envolvido no molho.\nFinalize: Se desejar, adicione queijo ralado e ervas a gosto antes de servir.\nSirva: Sirva quente e aproveite!"
     },
     {
-      "id": "2",
+      "id": "175374",
+      "imagem": "/images/bolo_de_chocolate.jpg",
+      "titulo": "Bolo de Chocolate",
+      "ingredientes": "2 xícaras de farinha de trigo\n 1 xícara de açúcar\n 1/2 xícara de cacau em pó\n 1/2 xícara de óleo\n 1 xícara de leite\n 3 ovos\n 1 colher de sopa de fermento em pó\n 1 pitada de sal\n Chocolate granulado para decorar (opcional)",
+      "resumo": "Um bolo delicioso e fácil de fazer.",
+      "modoPreparo": "Preaqueça o forno a 180°C. Unte uma forma com manteiga e farinha. Em uma tigela, misture a farinha, o açúcar, o cacau, o fermento e o sal. Em outra tigela, bata os ovos, o óleo e o leite. Junte as duas misturas, mexendo até ficar homogêneo. Despeje na forma e leve ao forno por aproximadamente 30-35 minutos, ou até que um palito saia limpo. Deixe esfriar e decore com chocolate granulado antes de servir."
+    },
+    {
+      "id": "175375",
+      "imagem": "/images/salada_caesar.jpg",
+      "titulo": "Salada Caesar",
+      "ingredientes": "1 alface romana\n 1 xícara de croutons\n 1/2 xícara de queijo parmesão ralado\n 1/4 xícara de molho Caesar\n Pimenta-do-reino a gosto",
+      "resumo": "Uma salada clássica e refrescante.",
+      "modoPreparo": "Lave bem a alface e corte em pedaços. Em uma tigela, misture a alface com os croutons e o queijo parmesão. Adicione o molho Caesar e misture delicadamente. Tempere com pimenta-do-reino a gosto e sirva imediatamente."
+    },
+    {
+      "id": "175376",
+      "imagem": "/images/sopa_de_legumes.jpg",
+      "titulo": "Sopa de Legumes",
+      "ingredientes": "2 cenouras picadas\n 1 batata picada\n 1 cebola picada\n 2 dentes de alho picados\n 1 abobrinha picada\n 1 litro de caldo de legumes\n Sal e pimenta a gosto\n Salsinha picada para decorar",
+      "resumo": "Uma sopa nutritiva e reconfortante.",
+      "modoPreparo": "Em uma panela, refogue a cebola e o alho até dourar. Adicione as cenouras, batata e abobrinha, refogando por alguns minutos. Junte o caldo de legumes e cozinhe até que os legumes estejam macios. Tempere com sal e pimenta. Sirva quente, decorado com salsinha."
+    },
+    {
+      "id": "175377",
+      "imagem": "/images/panqueca_banana.jpg",
+      "titulo": "Panqueca de Banana",
+      "ingredientes": "2 bananas maduras\n 1 ovo\n 1/2 xícara de aveia\n 1 colher de chá de canela em pó\n Óleo para untar",
+      "resumo": "Uma opção saudável e deliciosa para o café da manhã.",
+      "modoPreparo": "Amasse as bananas e misture com o ovo, aveia e canela até formar uma massa homogênea. Aqueça uma frigideira untada com óleo em fogo médio. Despeje porções da massa na frigideira e cozinhe até que as bordas estejam firmes. Vire e cozinhe do outro lado até dourar. Sirva quente."
+    },
+    {
+      "id": "175378",
+      "imagem": "/images/frango_ao_curry.jpg",
+      "titulo": "Frango ao Curry",
+      "ingredientes": "500g de peito de frango em cubos\n 1 cebola picada\n 2 dentes de alho picados\n 1 colher de sopa de curry em pó\n 1 lata de leite de coco\n Sal e pimenta a gosto\n Coentro fresco para decorar",
+      "resumo": "Uma receita aromática e saborosa.",
+      "modoPreparo": "Em uma panela, refogue a cebola e o alho até ficarem macios. Adicione o frango e cozinhe até dourar. Polvilhe o curry em pó e misture bem. Junte o leite de coco e deixe cozinhar por 15 minutos. Tempere com sal e pimenta. Sirva decorado com coentro fresco."
+    },
+    {
+      "id": "175379",
+      "imagem": "/images/pudim.jpg",
+      "titulo": "Pudim de Leite Condensado",
+      "ingredientes": "1 lata de leite condensado\n 2 latas de leite (use a lata de leite condensado como medida)\n 3 ovos\n 1 xícara de açúcar (para a calda)",
+      "resumo": "Uma sobremesa clássica e irresistível.",
+      "modoPreparo": "Em uma panela, derreta o açúcar até formar uma calda dourada. Despeje em uma forma de pudim. No liquidificador, bata o leite condensado, o leite e os ovos até ficar homogêneo. Despeje na forma com a calda. Cozinhe em banho-maria no forno pré-aquecido a 180°C por cerca de 1 hora. Deixe esfriar, desenforme e sirva."
+    },
+    {
+      "id": "25735",
       "imagem": "/images/frango.jpg",
       "titulo": "Frango a passarinho",
       "ingredientes": "1 kg de frango (coxa e sobrecoxa cortadas em pedaços pequenos)\n 4 dentes de alho picados\n Suco de 1 limão\n Sal e pimenta a gosto\n 1 colher de sopa de páprica (opcional)\n 1/2 xícara de farinha de trigo\n 1/2 xícara de farinha de milho (ou fubá)\n Óleo para fritar\n Salsinha picada (para decorar)",
-      "dificuldade": "bem médio",
+      "resumo": "bem médio",
       "modoPreparo": "Tempero: Em uma tigela grande, misture o frango com o alho picado, suco de limão, sal, pimenta e a páprica (se usar). Deixe marinar por pelo menos 30 minutos para absorver os sabores.\nEmpanar: Em um prato, misture a farinha de trigo e a farinha de milho. Passe os pedaços de frango nessa mistura, garantindo que fiquem bem empanados.\nFritar: Aqueça o óleo em uma frigideira grande em fogo médio-alto. Frite os pedaços de frango aos poucos, evitando sobrecarregar a panela. Frite até que fiquem dourados e crocantes, cerca de 5-7 minutos de cada lado. Retire e coloque sobre papel toalha para absorver o excesso de óleo.\nServir: Transfira o frango para um prato e decore com salsinha picada. Sirva quente, acompanhado de limão, arroz ou uma salada."
     },
     {
-      "id": "3",
+      "id": "373573",
       "imagem": "/images/churrasco.jpg",
       "titulo": "Churrasco a moda da casa",
       "ingredientes": "Carnes variadas (picanha, fraldinha, costela, linguiça, etc.)\nSal grosso\nPão de alho (opcional)\nAcompanhamentos (arroz, farofa, vinagrete, salada)",
-      "dificuldade": "bem dificil",
+      "resumo": "bem dificil",
       "modoPreparo": "Tempere as carnes: Tempere as carnes com sal grosso a gosto. Para carnes mais saborosas, você pode deixar marinar por algumas horas.\nPrepare a churrasqueira: Acenda a churrasqueira com carvão ou lenha. Deixe que o carvão queime até ficar com uma camada de cinzas, indicando que está na temperatura ideal.\nGrelhe as carnes: Coloque as carnes na grelha e cozinhe em fogo médio a alto. Vire-as periodicamente para garantir que fiquem bem cozidas por igual. O tempo de cocção varia de acordo com o tipo e espessura da carne.\nAdicione os acompanhamentos: Se estiver usando pão de alho, coloque na grelha nos últimos minutos. Prepare os acompanhamentos enquanto as carnes estão grelhando.\nSirva: Quando as carnes estiverem no ponto desejado, retire da grelha e deixe descansar por alguns minutos antes de cortar. Sirva com os acompanhamentos."
     },
     {
-      "id": "24f2",
-      "titulo": "132456465",
-      "ingredientes": "51615\n6941652",
-      "modoPreparo": "41965\n4165132",
-      "dificuldade": "Médio",
-      "imagem": "4194965"
+      "id": "42344324",
+      "imagem": "/images/macarrao.jpg",
+      "titulo": "Macarrão com carne moída",
+      "ingredientes": "250g de macarrão (espaguete, penne ou o que preferir)\n 300g de carne moída (beef ou frango)\n 1 cebola média picada\n 2 dentes de alho picados\n 1 lata de molho de tomate (ou 2 tomates maduros picados)\n Sal e pimenta a gosto\n Azeite ou óleo\n Queijo ralado (opcional)\n Ervas a gosto (como manjericão ou orégano)",
+      "resumo": "bem fácil",
+      "modoPreparo": "Cozinhe o macarrão: Em uma panela grande, ferva água com sal. Cozinhe o macarrão conforme as instruções da embalagem. Quando estiver al dente, escorra e reserve.\n Refogue a carne: Em uma frigideira grande, aqueça um pouco de azeite ou óleo em fogo médio. Adicione a cebola e o alho, refogando até que fiquem dourados.\nAdicione a carne: Junte a carne moída à frigideira. Cozinhe até que esteja bem dourada, mexendo para não empelotar. Tempere com sal e pimenta.\nMisture o molho: Adicione o molho de tomate (ou os tomates picados) à carne. Cozinhe por alguns minutos, até o molho aquecer e os sabores se misturarem.\n Combine tudo: Adicione o macarrão cozido à frigideira com o molho e a carne. Misture bem para que o macarrão fique envolvido no molho.\nFinalize: Se desejar, adicione queijo ralado e ervas a gosto antes de servir.\nSirva: Sirva quente e aproveite!"
+    },
+    {
+      "id": "42345345",
+      "imagem": "/images/frango.jpg",
+      "titulo": "Frango a passarinho",
+      "ingredientes": "1 kg de frango (coxa e sobrecoxa cortadas em pedaços pequenos)\n 4 dentes de alho picados\n Suco de 1 limão\n Sal e pimenta a gosto\n 1 colher de sopa de páprica (opcional)\n 1/2 xícara de farinha de trigo\n 1/2 xícara de farinha de milho (ou fubá)\n Óleo para fritar\n Salsinha picada (para decorar)",
+      "resumo": "bem médio",
+      "modoPreparo": "Tempero: Em uma tigela grande, misture o frango com o alho picado, suco de limão, sal, pimenta e a páprica (se usar). Deixe marinar por pelo menos 30 minutos para absorver os sabores.\nEmpanar: Em um prato, misture a farinha de trigo e a farinha de milho. Passe os pedaços de frango nessa mistura, garantindo que fiquem bem empanados.\nFritar: Aqueça o óleo em uma frigideira grande em fogo médio-alto. Frite os pedaços de frango aos poucos, evitando sobrecarregar a panela. Frite até que fiquem dourados e crocantes, cerca de 5-7 minutos de cada lado. Retire e coloque sobre papel toalha para absorver o excesso de óleo.\nServir: Transfira o frango para um prato e decore com salsinha picada. Sirva quente, acompanhado de limão, arroz ou uma salada."
+    },
+    {
+      "id": "3423453",
+      "imagem": "/images/churrasco.jpg",
+      "titulo": "Churrasco a moda da casa",
+      "ingredientes": "Carnes variadas (picanha, fraldinha, costela, linguiça, etc.)\nSal grosso\nPão de alho (opcional)\nAcompanhamentos (arroz, farofa, vinagrete, salada)",
+      "resumo": "bem dificil",
+      "modoPreparo": "Tempere as carnes: Tempere as carnes com sal grosso a gosto. Para carnes mais saborosas, você pode deixar marinar por algumas horas.\nPrepare a churrasqueira: Acenda a churrasqueira com carvão ou lenha. Deixe que o carvão queime até ficar com uma camada de cinzas, indicando que está na temperatura ideal.\nGrelhe as carnes: Coloque as carnes na grelha e cozinhe em fogo médio a alto. Vire-as periodicamente para garantir que fiquem bem cozidas por igual. O tempo de cocção varia de acordo com o tipo e espessura da carne.\nAdicione os acompanhamentos: Se estiver usando pão de alho, coloque na grelha nos últimos minutos. Prepare os acompanhamentos enquanto as carnes estão grelhando.\nSirva: Quando as carnes estiverem no ponto desejado, retire da grelha e deixe descansar por alguns minutos antes de cortar. Sirva com os acompanhamentos."
     }
   ]
 }

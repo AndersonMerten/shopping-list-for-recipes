@@ -1,3 +1,4 @@
+import { Heading } from "@chakra-ui/react";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
@@ -6,14 +7,14 @@ const NovaReceita = () => {
     const [titulo, setTitulo] = useState('');
     const [ingredientes, setIngredientes] = useState('');
     const [modoPreparo, setModoPreparo] = useState('');
-    const [dificuldade, setDificuldade] = useState('Médio');
+    const [resumo, setResumo] = useState('');
     const [imagem, setImagem] = useState('');
     const [carregando, setCarregando] = useState(false);
     const navigate = useNavigate();
 
     const handleNovaReceita = (e) =>{
         e.preventDefault();
-        const receita = {titulo, ingredientes, modoPreparo, dificuldade, imagem};
+        const receita = {titulo, ingredientes, modoPreparo, resumo, imagem};
         setCarregando(true);
         fetch("http://localhost:8000/Receitas", {
             method: "POST",
@@ -30,7 +31,7 @@ const NovaReceita = () => {
 
   return (
     <div className="novaReceita">
-      <h1>Crie uma nova receita</h1>
+      <Heading>Crie uma nova receita</Heading>
       <form onSubmit={handleNovaReceita}>
         <label>Nome da receita</label>
         <input type="text" 
@@ -53,15 +54,12 @@ const NovaReceita = () => {
         >
         </textarea>
 
-        <label>Dificuldade da receita</label>
-        <select
-        required
-        value={dificuldade}
-        onChange={(e) => setDificuldade(e.target.value)}>
-          <option value="Fácil">Fácil</option>
-          <option value="Médio">Médio</option>
-          <option value="Difícil">Difícil</option>
-        </select>
+        <label>Resumo</label>
+        <input type="text" 
+        required 
+        value={resumo}
+        onChange={(e) => setTitulo(e.target.value)}
+        />
 
         <label>Caminho da imagem</label>
         <input 

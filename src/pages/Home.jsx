@@ -1,6 +1,6 @@
 
-import ListaReceitas from "./ListaReceitas"
-import useFetch from "./useFetch";
+import ListaReceitas from "./ListaReceitas";
+import useFetch from "../useFetch";
 
 const Home = () => {
   const {data: receitas, carregando, erro} = useFetch ('http://localhost:8000/Receitas');
