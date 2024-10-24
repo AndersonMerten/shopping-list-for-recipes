@@ -1,10 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
+/*paleta de cores
+#3DEB6E - VERDE LUMINOSO
+#BF6262 - BEGE
+#EB3E3F - VERMELHO
+#59966A - VERDE CARPETE
+#6B5151 - MARROM (FUNDO?)
+#38413B - TEXTOS
+
+*/
+
 /* base styles */
 * {
   margin: 0;
   font-family: "Quicksand";
-  color: #333;
+  color: #38413B;
 }
 .navbar {
   padding: 20px;
@@ -15,7 +25,7 @@
   border-bottom: 1px solid #f2f2f2;
 }
 .navbar h1 {
-  color: #f1356d;
+  color: #38413B;
 }
 .navbar .links {
   margin-left: auto;
@@ -26,7 +36,7 @@
   padding: 6px;
 }
 .navbar a:hover {
-  color: #f1356d;
+  color: #38413B;
 }
 .content {
   max-width: 60%;
@@ -50,7 +60,7 @@
 }
 .post-preview h2 {
   font-size: 30px;
-  color: #000000;
+  color: #38413B;
   margin-bottom: 8px;
 }
 .post-preview a{
@@ -59,7 +69,7 @@
 
 .Receita h2 {
   font-size: 20px;
-  color: #f1356d;
+  color: #38413B;
   margin-bottom: 10px;
 }
 
@@ -78,7 +88,7 @@
 }
 
 .Receita button {
-  background: #f1356d;
+  background: #EB3E3F;
   color: #fff;
   border: 0;
   padding: 8px;
@@ -97,7 +107,7 @@
   display: block;
 }
 .novaReceita h2 {
-  color: #f1356d;
+  color: #38413B;
   margin-bottom: 30px;
 }
 .novaReceita input, .novaReceita textarea, .novaReceita select {
@@ -109,7 +119,7 @@
   display: block;
 }
 .novaReceita button {
-  background: #f1356d;
+  background: #EB3E3F;
   color: #fff;
   border: 0;
   padding: 8px;

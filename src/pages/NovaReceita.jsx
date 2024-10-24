@@ -58,7 +58,7 @@ const NovaReceita = () => {
         <input type="text" 
         required 
         value={resumo}
-        onChange={(e) => setTitulo(e.target.value)}
+        onChange={(e) => setResumo(e.target.value)}
         />
 
         <label>Caminho da imagem</label>

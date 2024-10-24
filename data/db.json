@@ -1,27 +1,19 @@
 {
   "Receitas": [
     {
-      "id": "175373",
-      "imagem": "/images/macarrao.jpg",
-      "titulo": "Macarrão com carne moída",
-      "ingredientes": "250g de macarrão (espaguete, penne ou o que preferir)\n 300g de carne moída (beef ou frango)\n 1 cebola média picada\n 2 dentes de alho picados\n 1 lata de molho de tomate (ou 2 tomates maduros picados)\n Sal e pimenta a gosto\n Azeite ou óleo\n Queijo ralado (opcional)\n Ervas a gosto (como manjericão ou orégano)",
-      "resumo": "bem fácil",
-      "modoPreparo": "Cozinhe o macarrão: Em uma panela grande, ferva água com sal. Cozinhe o macarrão conforme as instruções da embalagem. Quando estiver al dente, escorra e reserve.\n Refogue a carne: Em uma frigideira grande, aqueça um pouco de azeite ou óleo em fogo médio. Adicione a cebola e o alho, refogando até que fiquem dourados.\nAdicione a carne: Junte a carne moída à frigideira. Cozinhe até que esteja bem dourada, mexendo para não empelotar. Tempere com sal e pimenta.\nMisture o molho: Adicione o molho de tomate (ou os tomates picados) à carne. Cozinhe por alguns minutos, até o molho aquecer e os sabores se misturarem.\n Combine tudo: Adicione o macarrão cozido à frigideira com o molho e a carne. Misture bem para que o macarrão fique envolvido no molho.\nFinalize: Se desejar, adicione queijo ralado e ervas a gosto antes de servir.\nSirva: Sirva quente e aproveite!"
-    },
-    {
       "id": "175374",
-      "imagem": "/images/bolo_de_chocolate.jpg",
-      "titulo": "Bolo de Chocolate",
-      "ingredientes": "2 xícaras de farinha de trigo\n 1 xícara de açúcar\n 1/2 xícara de cacau em pó\n 1/2 xícara de óleo\n 1 xícara de leite\n 3 ovos\n 1 colher de sopa de fermento em pó\n 1 pitada de sal\n Chocolate granulado para decorar (opcional)",
-      "resumo": "Um bolo delicioso e fácil de fazer.",
-      "modoPreparo": "Preaqueça o forno a 180°C. Unte uma forma com manteiga e farinha. Em uma tigela, misture a farinha, o açúcar, o cacau, o fermento e o sal. Em outra tigela, bata os ovos, o óleo e o leite. Junte as duas misturas, mexendo até ficar homogêneo. Despeje na forma e leve ao forno por aproximadamente 30-35 minutos, ou até que um palito saia limpo. Deixe esfriar e decore com chocolate granulado antes de servir."
+      "titulo": "Bolo de pote sem pote",
+      "ingredientes": "capim\nlimao\ntestando\npra ver se funciona\n1234",
+      "modoPreparo": "tem que ver isso ai\nparece facil\nmas nem é",
+      "resumo": "Essa receita é disruptiva! Que tal um bolo de pote, mas sem o pote? GENIAL!!",
+      "imagem": "/images/bolo_de_chocolate.jpg"
     },
     {
       "id": "175375",
       "imagem": "/images/salada_caesar.jpg",
-      "titulo": "Salada Caesar",
-      "ingredientes": "1 alface romana\n 1 xícara de croutons\n 1/2 xícara de queijo parmesão ralado\n 1/4 xícara de molho Caesar\n Pimenta-do-reino a gosto",
-      "resumo": "Uma salada clássica e refrescante.",
+      "titulo": "Salada Caesar com rosquinha de polvilho",
+      "ingredientes": "1 alface romana\n10 cogumelos venenosos\n20 asa de morcego\n 1 xícara de croutons\n 1/2 xícara de queijo parmesão ralado\n 1/4 xícara de molho Caesar\n Pimenta-do-reino a gosto",
+      "resumo": "Uma salada clássica e refrescante. Você pode comer com açucar e canela",
       "modoPreparo": "Lave bem a alface e corte em pedaços. Em uma tigela, misture a alface com os croutons e o queijo parmesão. Adicione o molho Caesar e misture delicadamente. Tempere com pimenta-do-reino a gosto e sirva imediatamente."
     },
     {
@@ -29,7 +21,7 @@
       "imagem": "/images/sopa_de_legumes.jpg",
       "titulo": "Sopa de Legumes",
       "ingredientes": "2 cenouras picadas\n 1 batata picada\n 1 cebola picada\n 2 dentes de alho picados\n 1 abobrinha picada\n 1 litro de caldo de legumes\n Sal e pimenta a gosto\n Salsinha picada para decorar",
-      "resumo": "Uma sopa nutritiva e reconfortante.",
+      "resumo": "o sabor sempre encantador de água quente com pedaços de coisas aleatórias é, sem dúvida, a definição de algo gourmet.",
       "modoPreparo": "Em uma panela, refogue a cebola e o alho até dourar. Adicione as cenouras, batata e abobrinha, refogando por alguns minutos. Junte o caldo de legumes e cozinhe até que os legumes estejam macios. Tempere com sal e pimenta. Sirva quente, decorado com salsinha."
     },
     {
@@ -95,6 +87,14 @@
       "ingredientes": "Carnes variadas (picanha, fraldinha, costela, linguiça, etc.)\nSal grosso\nPão de alho (opcional)\nAcompanhamentos (arroz, farofa, vinagrete, salada)",
       "resumo": "bem dificil",
       "modoPreparo": "Tempere as carnes: Tempere as carnes com sal grosso a gosto. Para carnes mais saborosas, você pode deixar marinar por algumas horas.\nPrepare a churrasqueira: Acenda a churrasqueira com carvão ou lenha. Deixe que o carvão queime até ficar com uma camada de cinzas, indicando que está na temperatura ideal.\nGrelhe as carnes: Coloque as carnes na grelha e cozinhe em fogo médio a alto. Vire-as periodicamente para garantir que fiquem bem cozidas por igual. O tempo de cocção varia de acordo com o tipo e espessura da carne.\nAdicione os acompanhamentos: Se estiver usando pão de alho, coloque na grelha nos últimos minutos. Prepare os acompanhamentos enquanto as carnes estão grelhando.\nSirva: Quando as carnes estiverem no ponto desejado, retire da grelha e deixe descansar por alguns minutos antes de cortar. Sirva com os acompanhamentos."
+    },
+    {
+      "id": "b388",
+      "titulo": "Capim com limano",
+      "ingredientes": "capim\\n\nlimao\\\\n\ntestando\\n\npra ver se funciona\\\\n\n1234",
+      "modoPreparo": "tem que ver isso ai",
+      "resumo": "Essa receita é um teste para ver se funciona essa bagaça",
+      "imagem": "/images/bolo_de_chocolate.jpg"
     }
   ]
 }

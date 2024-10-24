@@ -1,5 +1,5 @@
 
-import ListaReceitas from "./ListaReceitas";
+import ListaReceitas from "../components/ListaReceitas";
 import useFetch from "../useFetch";
 
 const Home = () => {

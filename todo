@@ -1,1 +1,10 @@
-botao de deletar receita na listagem
+Em navbar:
+melhorar cores/layout dos botoes da navbar
+
+em Receita:
+mudar o modal para um component
+verificar porque input não está sendo verificado (pode enviar valor nulo)
+
+em listaReceita:
+limitar o tamanho do titulo e descrição, pra nao destruir o grid
+tags na listagem
